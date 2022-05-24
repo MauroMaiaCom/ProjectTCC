@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.AP{
+   background-color: rgba(30, 30, 32, 0.884);
+   padding: 10px;
+   margin: 0px 350px 0px 350px;
+   color: white;
+}
+.AP #BV{
+    text-align: center;
+    width: 500px;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10pt;
+}
+
+.EEQ{
+    background-color: rgb(255, 254, 254, .9);
+    padding: 20px;
+    height: 510px;
+    margin: 10px 10px 0px 350px;
+}
+.EEQ #IMEQ{
+    padding: 5px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}

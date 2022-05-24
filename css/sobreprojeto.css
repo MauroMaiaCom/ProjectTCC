@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.corpo{
+    height: 290px;
+    margin-left: 350px;
+}
+
+.Tex{
+    width: 50%;
+    float: left;
+    margin: 100px;
+    padding: 5px;
+    text-align: center;
+}
+.Tex h1{
+    font-size: 40pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Tex h2{
+    font-size: 20pt;
+}
+
+
+.rodape{
+    background-color: rgb(255, 254, 254, .8);
+    margin-left: 350px;
+    padding: 50px;
+    height: 250px;
+}
+.rodape p{
+    font-size: 20pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.fim{
+    background-color: aqua;
+    margin-left: 350px;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.fim a
+{
+    clear: both;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}

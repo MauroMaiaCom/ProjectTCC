@@ -1,0 +1,65 @@
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+.header ul{
+    list-style: none;
+}
+
+.header img{
+    width: 80px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.header input[type="checkbox"]{
+    display: none;
+    cursor: pointer;
+}
+
+.header nav{
+    background-color: rgba(16, 16, 16, .5);
+    width: 350px;
+    height: 100%;
+    position: absolute;
+}
+
+.header ul{
+    list-style: none;
+    top: 100px;
+    position: absolute;
+    width: 100%;
+}
+
+.header a{
+    display: block;
+    padding: 25px 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 20pt;
+}
+
+.header a:hover{
+    background-color: rgb(176, 224, 230);
+    color: black;
+}
+
+.header label{
+    padding: 15px;
+    position: absolute;
+    z-index: 1;
+}
+.corpo{
+    height: 290px;
+    margin-left: 350px;
+}
+.Tex{
+    width: 55%;
+    float: left;
+    margin: 100px;
+    padding: 5px;
+    text-align: center;
+    margin-left: 200px;
+
+}

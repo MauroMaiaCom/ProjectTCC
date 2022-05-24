@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.corpo{
+    height: 290px;
+    margin-left: 350px;
+}
+
+.Tex{
+    width: 55%;
+    float: left;
+    margin: 100px;
+    padding: 5px;
+    text-align: center;
+}
+
+
+.rodape{
+    background-color: rgb(255, 254, 254, .8);
+    margin-left: 350px;
+    padding: 50px;
+    height: 550px;
+}
+
+
+.fim{
+    background-color: aqua;
+    margin-left: 350px;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.fim a
+{
+    clear: both;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
